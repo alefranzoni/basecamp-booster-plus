@@ -7,7 +7,7 @@ Loving boost in Basecamp, but hate having only 16 characters to do it with? Then
 With this simple tool, you can change the boost character limit and boooost like never before.
 
 ## Installation
-Download the extension from the [Add-ons for Firefox](https://addons.mozilla.org/en-US/firefox/addon/basecamp-booster/) or [Chrome Web Store](#todo).
+Download the extension from the [Add-ons for Firefox](https://addons.mozilla.org/en-US/firefox/addon/basecamp-booster/) or [Chrome Web Store](https://chromewebstore.google.com/detail/basecamp-booster+/idbbpaggdcdhnkebeankodicmecjfkld).
 
 ## Install from GitHub
 To install the extension from GitHub directly (off-store), download the latest release as a zip file from the [Releases](https://github.com/alefranzoni/basecamp-booster-plus/releases) page and add it to your browser.
